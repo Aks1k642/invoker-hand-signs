@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented here.
 
+## [1.0.1] — 2026-10-08
+
+### Fixed
+
+- Pin Flet to 0.27.6 so the Windows executable uses the API expected by the
+  Material 3 app (`ft.app`) instead of the incompatible Flet 1.x API.
+
 ## [1.0.0] — 2026-10-08
 
 ### Added
