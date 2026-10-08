@@ -1,0 +1,12 @@
+{
+  "camera_index": 0,
+  "hold_seconds": 0.35,
+  "release_seconds": 0.18,
+  "show_landmarks": true,
+  "gesture_keys": {
+    "quas": "q",
+    "wex": "w",
+    "exort": "e",
+    "invoke": "r"
+  }
+}
